@@ -1,0 +1,26 @@
+{
+  "name": "typescript-project",
+  "version": "1.0.0",
+  "description": "This is a typescript project to for sharing the knowledge about typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayurmk/typescript-project.git"
+  },
+  "author": "Mayur Kapadia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayurmk/typescript-project/issues"
+  },
+  "homepage": "https://github.com/Mayurmk/typescript-project#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "dependencies": {
+    "nodemon": "^1.18.5"
+  }
+}

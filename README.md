@@ -1,0 +1,1 @@
+This project is mainly used for sharing the knowledge of typescript.
